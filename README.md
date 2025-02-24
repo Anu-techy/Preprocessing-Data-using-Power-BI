@@ -13,7 +13,8 @@
 
 **Aim**
 
-To create a Dim_date table
+1. To create a Dim_date table
+2. Data validation against Bench mark numbers to make sure that the data is loaded correctly for further transformations.
 
 To build a dashboard in Power BI for Comprehensive Financial Analysis
 
