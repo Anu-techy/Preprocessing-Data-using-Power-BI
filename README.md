@@ -13,7 +13,7 @@
 
 **Aim**
 
-1. To create a Dim_date table
+1. To create a Dim_date table (date, month, fiscal_year columns for all the transactions in fact_sales_monthly)
 2. Data validation against Bench mark numbers to make sure that the data is loaded correctly for further transformations.
 
 To build a dashboard in Power BI for Comprehensive Financial Analysis
