@@ -1,17 +1,18 @@
 # Financial-Analysis-using-Power-BI
 
-Define the Problem
-Data Collection
-Data Cleaning
-Data Exploration
-Data Analysis
-Data Visualization
-Model Building (if applicable)
-Interpret Results
-Communicate Findings
-Monitor & Maintain (if needed)
+1. Define the Problem
+2. Data Collection
+3. Data Cleaning
+4. Data Exploration
+5. Data Analysis
+6. Data Visualization
+7. Model Building (if applicable)
+8.vInterpret Results
+9. Communicate Findings
+10. Monitor & Maintain (if needed)
 
 **Aim**
+
 To create a Dim_date table
 
 To build a dashboard in Power BI for Comprehensive Financial Analysis
@@ -40,7 +41,7 @@ The product hierarchy is a structured classification from broad to specific: Div
 
 product divisions are Peripheral and Accessories (P & A), PC, N & S (Networking and storage) 
 
-=======================================================================================================
+========================================================
 
 There are total 10 tables
 
@@ -74,7 +75,7 @@ post_invoice_deductions (customer_code, product_code, date, discounts_pct, other
 
 pre_invoice_deductions (customer_code, fiscal_year, pre_invoice_discount_pct)    1045 rows * 3 columns    
 
-===================================================================================================================
+====================================================
 
 
 
