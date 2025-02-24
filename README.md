@@ -15,6 +15,7 @@
 
 1. To create a Dim_date table (date, month, fiscal_year columns for all the transactions in fact_sales_monthly)
 2. Data validation against Bench mark numbers to make sure that the data is loaded correctly for further transformations.
+3. Create Mockup of the Dashboard
 
 To build a dashboard in Power BI for Comprehensive Financial Analysis
 
@@ -44,13 +45,11 @@ product divisions are Peripheral and Accessories (P & A), PC, N & S (Networking 
 
 ========================================================
 
-There are total 10 tables
-
 **Data Collection**
 
 Data Catalog is given, where the details of DB servers, tables with description and on call person contact is given.
 
-There are total 10 tables
+There are total **10 tables**
 
 **Dimension tables**
 
@@ -78,7 +77,11 @@ pre_invoice_deductions (customer_code, fiscal_year, pre_invoice_discount_pct)   
 
 ====================================================
 
+**Data Modelling**
 
+dim_date (date)  ------->   fact_sales_monthly (date)       (one to many)
+
+dim_date (date)  ------->   fact_forecast_monthly (date)    (one to many)
 
 
 
