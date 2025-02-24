@@ -12,6 +12,7 @@ Communicate Findings
 Monitor & Maintain (if needed)
 
 **Aim**
+To create a Dim_date table
 
 To build a dashboard in Power BI for Comprehensive Financial Analysis
 
@@ -39,24 +40,25 @@ The product hierarchy is a structured classification from broad to specific: Div
 
 product divisions are Peripheral and Accessories (P & A), PC, N & S (Networking and storage) 
 
-
+=======================================================================================================
 
 There are total 10 tables
-
 
 **Data Collection**
 
 Data Catalog is given, where the details of DB servers, tables with description and on call person contact is given.
 
-**Dimension tables**
-
 There are total 10 tables
+
+**Dimension tables**
 
 dim_customer (channel, customer, customer_code, market, platform)     209 rows * 5 columns
 
 dim_market (market, sub_zone, region)          27 rows * 3 columns
 
 dim_product (product_code, division, segment, category, product, variant)    397 rows * 6 columns    
+
+**fact tables**
 
 fact_forecast_monthly (date, division, category, product_code, product, market, platform, channel, customer_code, customer_name, forecast_quantity)    1885941 rows * 11 columns
 
@@ -72,9 +74,7 @@ post_invoice_deductions (customer_code, product_code, date, discounts_pct, other
 
 pre_invoice_deductions (customer_code, fiscal_year, pre_invoice_discount_pct)    1045 rows * 3 columns    
 
-
-
-
+===================================================================================================================
 
 
 
