@@ -16,6 +16,7 @@
 1. To create a Dim_date table (date, month, fiscal_year columns for all the transactions in fact_sales_monthly)
 2. Data validation against Bench mark numbers to make sure that the data is loaded correctly for further transformations.
 3. Create Mockup of the Dashboard
+4. Building fact_actual_estimates table
 
 To build a dashboard in Power BI for Comprehensive Financial Analysis
 
@@ -82,6 +83,11 @@ pre_invoice_deductions (customer_code, fiscal_year, pre_invoice_discount_pct)   
 dim_date (date)  ------->   fact_sales_monthly (date)       (one to many)
 
 dim_date (date)  ------->   fact_forecast_monthly (date)    (one to many)
+
+====================================================================
+Data cleaning
+Data preparation
+Data transformation
 
 
 
