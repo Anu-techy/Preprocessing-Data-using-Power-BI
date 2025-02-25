@@ -77,6 +77,13 @@ post_invoice_deductions (customer_code, product_code, date, discounts_pct, other
 pre_invoice_deductions (customer_code, fiscal_year, pre_invoice_discount_pct)    1045 rows * 3 columns    
 
 ====================================================
+Creating Mockup of the Dashboard we needed help us in  
+•	Visual communication of what we need
+•	Early feedback
+•	Enchanced user experience
+**Note** mockup.ai is one such tool
+======================================================
+
 
 **Data Modelling**
 
