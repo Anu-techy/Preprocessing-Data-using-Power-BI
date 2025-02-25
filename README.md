@@ -81,7 +81,9 @@ pre_invoice_deductions (customer_code, fiscal_year, pre_invoice_discount_pct)   
 Creating Mockup of the Dashboard we needed help us in 
 
 •	Visual communication of what we need
+
 •	Early feedback
+
 •	Enchanced user experience
 
 **Note** mockup.ai is one such tool
