@@ -1,7 +1,6 @@
 # Financial-Analysis-using-Power-BI
 
-1. Define the Problem
-2. Data Collection
+2. Data Modelling
 3. Data Cleaning
 4. Data Exploration
 5. Data Analysis
@@ -18,7 +17,7 @@
 3. Create Mockup of the Dashboard
 4. Building fact_actual_estimates table
 
-To build a dashboard in Power BI for Comprehensive Financial Analysis
+To Build a dashboard in Power BI for Comprehensive Financial Analysis
 
 **Description**
 
@@ -78,7 +77,7 @@ pre_invoice_deductions (customer_code, fiscal_year, pre_invoice_discount_pct)   
 
 ====================================================
 
-Creating Mockup of the Dashboard we needed help us in 
+Creating **Mockup of the Dashboard** we needed help us in 
 
 •	Visual communication of what we need
 
@@ -86,10 +85,9 @@ Creating Mockup of the Dashboard we needed help us in
 
 •	Enchanced user experience
 
-**Note** mockup.ai is one such tool
+**Note** mockup.ai is one of the tool
 
 ======================================================
-
 
 **Data Modelling**
 
