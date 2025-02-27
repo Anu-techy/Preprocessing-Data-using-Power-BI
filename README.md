@@ -76,7 +76,21 @@ post_invoice_deductions (customer_code, product_code, date, discounts_pct, other
 pre_invoice_deductions (customer_code, fiscal_year, pre_invoice_discount_pct)    1045 rows * 3 columns    
 
 ====================================================
+Data Cleaning and transformation in Power Query
 
+Removed duplicate values
+
+Removed data with missing values (only 3 rows)
+
+Identified, replaced spelling mistakes in customer names
+
+Replaced nan category in market table to NA (North American Region) ater confirming with business owners
+
+Few rows have negative quantity , Replaced with positive after clear confirmation
+
+Named all the data transformation steps
+
+===================================================================
 Creating **Mockup of the Dashboard** we needed help us in 
 
 •	Visual communication of what we need
