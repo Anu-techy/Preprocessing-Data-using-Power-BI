@@ -11,11 +11,13 @@
 10. Monitor & Maintain (if needed)
 
 **Aim**
-
-1. To create a Dim_date table (date, month, fiscal_year columns for all the transactions in fact_sales_monthly)
-2. Data validation against Bench mark numbers to make sure that the data is loaded correctly for further transformations.
-3. Create Mockup of the Dashboard
-4. Building fact_actual_estimates table
+1. Data Collection
+2. Data cleaning
+3. To create a Dim_date table (date, month, fiscal_year columns for all the transactions in fact_sales_monthly)
+4. Data validation against Bench mark numbers to make sure that the data is loaded correctly for further transformations.
+5. Building fact_actual_estimates table
+6. Data Modelling
+7.  
 
 To Build a dashboard in Power BI for Comprehensive Financial Analysis
 
