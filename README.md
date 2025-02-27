@@ -1,32 +1,10 @@
 # Financial-Analysis-using-Power-BI
 
-2. Data Modelling
-3. Data Cleaning
-4. Data Exploration
-5. Data Analysis
-6. Data Visualization
-7. Model Building (if applicable)
-8.vInterpret Results
-9. Communicate Findings
-10. Monitor & Maintain (if needed)
-
 **Aim**
 
 To preprocess and transform the data for creating interactive dashboards that cater 
 to the Finance, Sales, Marketing, and Supply Chain teams, enabling 
 deeper analysis, insights generation, and informed decision-making.
-
-**Steps**
-
-1. Data Collection
-2. Data cleaning
-3. To create a Dim_date table (date, month, fiscal_year columns for all the transactions in fact_sales_monthly)
-4. Data validation against Bench mark numbers to make sure that the data is loaded correctly for further transformations.
-5. Building fact_actual_estimates table
-6. Data Modelling
-7.  
-
-To Build a dashboard in Power BI for Comprehensive Financial Analysis
 
 **Description**
 
@@ -53,6 +31,7 @@ The product hierarchy is a structured classification from broad to specific: Div
 product divisions are Peripheral and Accessories (P & A), PC, N & S (Networking and storage) 
 
 ========================================================
+
 **Data Cleaning**
 
 Data Cleaning and transformation in Power Query
@@ -70,6 +49,21 @@ Few rows have negative quantity , Replaced with positive after clear confirmatio
 Named all the data transformation steps
 
 ===================================================================
+
+**Steps**
+
+1. Data Collection
+2. Data cleaning
+3. To create a Dim_date table (date, month, fiscal_year columns for all the transactions in fact_sales_monthly)
+4. Data Modelling
+5. Data validation against Bench mark numbers to make sure that the data is loaded correctly for further transformations.
+6. Building fact_actual_estimates table
+7. Data Modelling
+8. Calculated columns for P & L Metrics using Power Query
+9. Calculated columns for P & L Metrics using DAX
+10. Optimization of the file size
+
+====================================================================================
 Creating **Mockup of the Dashboard** we needed help us in 
 
 •	Visual communication of what we need
