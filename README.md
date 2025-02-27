@@ -58,23 +58,11 @@ Named all the data transformation steps
 4. Data Modelling
 5. Data validation against Bench mark numbers to make sure that the data is loaded correctly for further transformations.
 6. Building fact_actual_estimates table
-7. Data Modelling
-8. Calculated columns for P & L Metrics using Power Query
-9. Calculated columns for P & L Metrics using DAX
-10. Optimization of the file size
+7. Calculated columns for P & L Metrics using Power Query
+8. Calculated columns for P & L Metrics using DAX
+9. Optimization of the file size using DAX Studio
 
-====================================================================================
-Creating **Mockup of the Dashboard** we needed help us in 
 
-•	Visual communication of what we need
-
-•	Early feedback
-
-•	Enchanced user experience
-
-**Note** mockup.ai is one of the tool
-
-======================================================
 
 
 
