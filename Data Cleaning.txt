@@ -1,0 +1,13 @@
+Data Cleaning
+----------------
+Removed duplicate values
+
+Removed data with missing values (only 3 rows)
+
+Identified, replaced spelling mistakes in customer names
+
+Replaced nan category in market table to NA (North American Region) ater confirming with business owners
+
+Few rows have negative quantity , Replaced with positive after clear confirmation
+
+Named all the data transformation steps
