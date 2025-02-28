@@ -34,8 +34,6 @@ product divisions are Peripheral and Accessories (P & A), PC, N & S (Networking 
 
 **Data Cleaning**
 
-Data Cleaning and transformation in Power Query
-
 Removed duplicate values
 
 Removed data with missing values (only 3 rows)
