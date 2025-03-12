@@ -8,7 +8,7 @@ deeper analysis, insights generation, and informed decision-making.
 
 **Description**
 
-**Atliq** is a hardware company which manufactures electronic hardware items like PC, Laptop, Hard Drive, mouse, Keyboards, pendrives etc. 
+**GlobalTech** is a hardware company which manufactures electronic hardware items like PC, Laptop, Hard Drive, mouse, Keyboards, pendrives etc. 
 It has operations all over the globe. 
 
 **Steps**
